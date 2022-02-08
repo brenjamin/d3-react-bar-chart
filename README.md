@@ -2,6 +2,8 @@
 
 Completed as part of FreeCodeCamp's Data Visualization curriculum. [Link to project instructions on FCC](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-bar-chart). Built using methods learned in Curran Kelleher's [D3 + React Course](https://youtu.be/2LhoCfjm8R4).
 
+[View project](https://brenjamin.github.io/d3-react-bar-chart).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
